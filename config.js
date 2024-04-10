@@ -3,12 +3,12 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-       "Chúc mừng sinh nhật bạn!"
-"Hy vọng tuổi mới này"
-    "mọi điều bạn mong ước sẽ trở thành hiện thực."
-"Ngày hôm nay,"
-    "hãy để mọi lo lắng qua một bên và tận hưởng từng khoảnh khắc bên cạnh những người bạn yêu thương."
-"Chúc bạn một ngày thật vui và tràn ngập tiếng cười!"
+       "Chúc mừng sinh nhật bạn!",
+"Hy vọng tuổi mới này",
+    "mọi điều bạn mong ước sẽ trở thành hiện thực.",
+"Ngày hôm nay,",
+    "hãy để mọi lo lắng qua một bên và tận hưởng từng khoảnh khắc bên cạnh những người bạn yêu thương.",
+"Chúc bạn một ngày thật vui và tràn ngập tiếng cười!",
 
     ],
     /**
@@ -33,7 +33,7 @@ balloons_flying: "Seems like something's missing",
 cake_fadein: "Cake?",
 light_candle: "Candles?",
 wish_message: "Happy birthday Hoài Vũ.",
-story: "Vũ báo , happy birthday to you."
+story: "Vũ báo , happy birthday to you.",
 
     }
 };
